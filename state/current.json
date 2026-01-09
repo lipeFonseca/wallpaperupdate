@@ -1,7 +1,5 @@
 {
-  "version": 4,
-  "image": "wallpapers/wallpaper-01.jpg",
-  "hash": "placeholder",
-  "interval_minutes": 10,
-  "updated_at": "2026-01-08T14:30:00Z"
+  "image": "wallpapers/wallpaper-02.jpg",
+  "updated_at": "2026-01-08T15:10:00Z",
+  "interval_minutes": 10
 }
