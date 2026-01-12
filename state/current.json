@@ -1,5 +1,7 @@
 {
-  "image": "wallpapers/wallpaper-01.jpg",
-  "updated_at": "2026-01-08T15:10:00Z",
-  "interval_minutes": 10
+  "current_wallpaper": "wallpaper-03",
+  "path": "wallpapers",
+  "version": 6,
+  "updated_at": "2026-01-12T11:20:00Z",
+  "updated_by": "admin"
 }
