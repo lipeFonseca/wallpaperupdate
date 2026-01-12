@@ -1,5 +1,7 @@
 {
-  "active": "wallpaper-02",
-  "folder": "wallpapers",
-  "updated_at": "2026-01-12T16:06:36.553Z"
+  "current_wallpaper": "wallpaper-03",
+  "path": "wallpapers",
+  "version": 7,
+  "updated_at": "2026-01-12T11:45:00Z",
+  "updated_by": "admin"
 }
