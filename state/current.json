@@ -1,13 +1,13 @@
 {
-  "active": "wallpaper-02",
+  "active": "2026-06-08T17-26-30-531Z-wallpaper.png",
   "folder": "wallpapers",
-  "desktop_file": "wallpapers/wallpaper-02.jpg",
+  "desktop_file": "wallpapers/2026-06-08T17-26-30-531Z-wallpaper.png.png",
   "transition": "fade",
   "message": "",
   "message_mode": "none",
   "apply_lock_screen": false,
   "lock_wallpaper": "",
   "lock_file": "",
-  "version": 1780944961,
-  "updated_at": "2026-06-08T18:56:01.925Z"
+  "version": 1781177880,
+  "updated_at": "2026-06-11T11:38:00.643Z"
 }
